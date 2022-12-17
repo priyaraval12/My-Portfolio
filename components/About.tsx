@@ -35,7 +35,7 @@ export default function About({}: Props) {
           Introduction:
         </h4>
         <p className="text-sm md:text-base">
-          I am Priyasnshi Raval, and I am a Fronted Developer and here are some things I
+          I am Priyasnshi Raval, and I am a Front End Developer and here are some things I
           have done so far.... <br />
           I started learning about coding in my first year of college and then I
           got all into it once I discovered Development and Web3 .{" "}

@@ -21,8 +21,8 @@ export default function ({}: Props) {
         viewport={{
           once: true,
         }}
-        className="h-32 w-32 rounded-full xl:w-[100px] xl:h-[100px] "
-        src="/hcs.png"
+        className="h-32 w-32 rounded-full xl:w-[100px] xl:h-[100px]  "
+        src="/logotwitter.png"
       />
       <div className="px-0 md:px-10">
        
