@@ -1,7 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Expcard from "../components/Expcard";
-import Expcard2 from "../components/Expcard2"
+import Expcard2 from "../components/Expcard2";
+import Expcard3 from "../components/Expcard3";
 type Props = {};
 
 export default function Experience({}: Props) {
@@ -18,6 +19,7 @@ export default function Experience({}: Props) {
       <div className="w-full flex space-x-5 overflow-x-scroll p-10 xl:p-0 snap-x snap-mandatory xl:mt-20 scrollbar scrollbar-track-black-400/20 scrollbar-thumb-[#7df9ff]/80 scrollbar-thin">
         <Expcard/>
         <Expcard2/>
+        <Expcard3/>
         <Expcard/>
       </div>
     </motion.div>
