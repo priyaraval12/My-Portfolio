@@ -22,11 +22,11 @@ export default function ({}: Props) {
           once: true,
         }}
         className="h-32 w-32 rounded-full xl:w-[200px] xl:h-[200px] "
-        src="/logo.png"
+        src=""
       />
       <div className="px-0 md:px-10">
-        <h4 className="text-4xl font-light">HORIZON 2022</h4>
-        <p className="text-2xl font-bold mt-1">BlockTube</p>
+        <h4 className="text-4xl font-light">SHEBUILDS</h4>
+        <p className="text-2xl font-bold mt-1">OpenBazaar</p>
         <div className="flex space-x-2 my-2">
           <img src="/react.png" className="h-10 w-10 rounded-full bg-white" />
           <img src="/next.png" className="h-10 w-10 bg-white rounded-full " />
@@ -34,13 +34,17 @@ export default function ({}: Props) {
           <img src="/node.png" className="h-10 w-10 rounded-full bg-white" />
           <img src="/etherjs.png" className="h-10 w-10 rounded-full bg-white" />
         </div>
-        <p className="uppercase text-black-300">Dec 2022</p>
+        <p className="uppercase text-black-300">Jun 2023</p>
         <ul className="list-disc space-y-1  ml-5  text-m">
-          <li>Developed the front end for our project BlockTube</li>
+          <li>Developed the front end for our project OpenBazaar </li>
           <li>
-             decentralized Youtube clone built on Polygon network using the power of The Graph and 
-             leveraging the Storage By FileCoin x IPFS allow users to create, share and watch videos,
-              without worrying about their privacy.
+          OpenBazaar is a platform that allows individuals to connect with one another and trade 
+          digital assets directly, without the need for a central authority or intermediaries.
+           It utilizes decentralized technology, such as blockchain and smart contracts, to 
+           facilitate transactions and eliminate the need for fees. This means that users can 
+           buy and sell on OpenBazaar without having to pay a percentage of their earnings to a 
+           third party, like they would on a traditional e-commerce platform.
+
           </li>
           {/* <li>Our project won two bounties prizes in ETHIndia</li> */}
         </ul>
